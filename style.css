@@ -1,1 +1,17 @@
+body {
+  font-family: Georgia, serif;
+  background: #ffffff;
+  color: #222;
+  line-height: 1.6;
+}
 
+main {
+  max-width: 700px;
+  margin: 80px auto;
+  padding: 20px;
+}
+
+a {
+  color: #000;
+  text-decoration: underline;
+}
